@@ -1,0 +1,16 @@
+{
+  "name": "my-github-manager",
+  "version": "1.0.2",
+  "description": "GitHub Repository Management",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": {
+    "my-github-manager": "./my-github-manager.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
